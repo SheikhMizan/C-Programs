@@ -39,7 +39,7 @@ int main() {
       // 5. BMI Calculator
     float h, w, BMI;
     cin >> h >> w;
-    BMI = (w*1000) / (h*h);
+    BMI = (w/1000) / (h*h);
     cout << "Body Mass = " << BMI << endl;
 
 
