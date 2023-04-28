@@ -22,3 +22,20 @@ BMI = weight (kg) / [height (m)]2
 
 
 7. Write a program that asks the user to enter the amount of money they want to save and the interest rate (as a percentage), and then calculates and displays the number of years it will take to reach their savings goal.
+
+
+Solution 8 - 15 
+AProgram that takes the x and y coordinates of a point as input and prints the quadrant of the point.
+A Program to check if a year is Leap Year or not
+A Program to input any character and check whether it is the alphabet, digit, or special character.
+A Program which checks whether a character vowel or consonant
+A Program to input week number and print weekday. (switch-case)
+A Program to input a student's mark (out of 100) and print the corresponding grade. (switch-case)
+
+Grading scheme
+A: 90-100
+B: 80-89
+C: 70-79
+D: 60-69
+F: less than 60
+
